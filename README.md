@@ -1,4 +1,4 @@
 kit
 ===
 
-No frameworks toolkit
+No frameworks toolkit. Definition and name are still to be established.
